@@ -1,0 +1,301 @@
+id,name,gender,job_family,job_title,job_level,education,tenure_months,annual_salary,performance_rating,market_midpoint,compa_ratio,risk_flag,log_salary
+EMP001,Employee_1,Female,Commercial,Key Account Mgr,N3,PhD,39,45343,3.3,50000,0.91,Equitable,10.722011088612783
+EMP002,Employee_2,Male,Operations,Planner,N3,Master,82,53694,3.7,50000,1.07,Equitable,10.891056542410913
+EMP003,Employee_3,Female,Finance,Controller,N4,Bachelor,38,78074,3.7,75000,1.04,Equitable,11.265412373872007
+EMP004,Employee_4,Female,HR,HR Manager,N5,Master,113,120806,3.2,110000,1.1,Equitable,11.701941232123566
+EMP005,Employee_5,Male,Commercial,Lead Generator,N1,Bachelor,57,20259,3.0,20000,1.01,Equitable,9.916354418242951
+EMP006,Employee_6,Male,Commercial,Sales Supervisor,N4,Bachelor,26,78586,4.3,75000,1.05,Equitable,11.271948845504227
+EMP007,Employee_7,Male,Finance,VP Finance,N7,PhD,111,261182,4.1,235000,1.11,Equitable,12.472972761299257
+EMP008,Employee_8,Male,Operations,Warehouse Op,N1,Bachelor,85,19357,4.2,20000,0.97,Equitable,9.870809390145546
+EMP009,Employee_9,Male,IT,Sr Developer,N3,High School,50,52289,4.6,50000,1.05,Equitable,10.864541302883799
+EMP010,Employee_10,Female,Legal,Associate,N3,PhD,12,54366,4.2,50000,1.09,Equitable,10.903494237450115
+EMP011,Employee_11,Female,Finance,Finance Manager,N5,High School,11,119183,2.7,110000,1.08,Equitable,11.688415405992886
+EMP012,Employee_12,Male,Operations,Planner,N3,Bachelor,14,48624,3.9,50000,0.97,Equitable,10.791872515156575
+EMP013,Employee_13,Female,Legal,Legal Director,N6,Master,91,171466,3.7,165000,1.04,Equitable,12.052140275204994
+EMP014,Employee_14,Male,Operations,Warehouse Op,N1,Bachelor,5,19464,4.9,20000,0.97,Equitable,9.876321884463358
+EMP015,Employee_15,Male,Commercial,Sales Rep,N2,High School,97,22400,2.6,32000,0.7,Critical: Underpaid,10.01681623784313
+EMP016,Employee_16,Female,Commercial,Sales Supervisor,N4,Master,17,73539,4.8,75000,0.98,Equitable,11.205571156720927
+EMP017,Employee_17,Female,Operations,Plant Supervisor,N4,Bachelor,33,80922,4.8,75000,1.08,Equitable,11.301241006744913
+EMP018,Employee_18,Female,HR,HR Assistant,N1,Bachelor,1,20881,2.5,20000,1.04,Equitable,9.946594933570061
+EMP019,Employee_19,Female,Finance,Sr Accountant,N3,High School,117,53347,4.9,50000,1.07,Equitable,10.884573022721431
+EMP020,Employee_20,Male,Commercial,Key Account Mgr,N3,Master,44,48005,3.3,50000,0.96,Equitable,10.779060451131723
+EMP021,Employee_21,Female,Finance,Billing Clerk,N1,High School,39,20728,4.4,20000,1.04,Equitable,9.939240722241946
+EMP022,Employee_22,Female,IT,Jr Developer,N2,Master,80,29867,2.1,32000,0.93,Equitable,10.304509470946918
+EMP023,Employee_23,Female,HR,Recruiter,N2,Bachelor,91,34139,3.8,32000,1.07,Equitable,10.438195704765366
+EMP024,Employee_24,Male,IT,Jr Developer,N2,Bachelor,110,32545,3.7,32000,1.02,Equitable,10.390379026006487
+EMP025,Employee_25,Female,HR,HRBP,N4,Bachelor,69,78738,2.0,75000,1.05,Equitable,11.273881164124342
+EMP026,Employee_26,Female,Legal,Sr Counsel,N4,Bachelor,45,77630,3.8,75000,1.04,Equitable,11.259709229399727
+EMP027,Employee_27,Male,Commercial,Sales Rep,N2,Bachelor,118,28748,1.7,32000,0.9,Equitable,10.266323478588333
+EMP028,Employee_28,Male,IT,Tech Lead,N4,Bachelor,56,80984,4.3,75000,1.08,Equitable,11.302006883278588
+EMP029,Employee_29,Female,Legal,Legal Assistant,N1,Bachelor,34,20869,4.6,20000,1.04,Equitable,9.946020083254831
+EMP030,Employee_30,Male,HR,HR Assistant,N1,Master,90,22642,3.3,20000,1.13,Equitable,10.027561867638054
+EMP031,Employee_31,Male,HR,HR Manager,N5,Master,28,113818,1.3,110000,1.03,Equitable,11.642355960398445
+EMP032,Employee_32,Male,Operations,Planner,N3,PhD,36,53103,1.6,50000,1.06,Equitable,10.879988702809266
+EMP033,Employee_33,Male,Commercial,Sales Rep,N2,Bachelor,1,32025,2.6,32000,1.0,Equitable,10.374272126764936
+EMP034,Employee_34,Female,HR,Recruiter,N2,Bachelor,56,30352,2.5,32000,0.95,Equitable,10.320617692174796
+EMP035,Employee_35,Female,IT,VP Engineering,N7,Master,22,202080,3.0,235000,0.86,Equitable,12.216418937584319
+EMP036,Employee_36,Female,Operations,Logistics Coord,N2,Bachelor,38,31107,2.4,32000,0.97,Equitable,10.345188153226388
+EMP037,Employee_37,Male,Commercial,CRO,N8,PhD,59,339826,1.1,350000,0.97,Equitable,12.73618900089021
+EMP038,Employee_38,Female,Legal,Legal Assistant,N1,Bachelor,94,21459,2.0,20000,1.07,Equitable,9.973899416776494
+EMP039,Employee_39,Male,Operations,Planner,N3,Master,94,53646,2.6,50000,1.07,Equitable,10.890162187963373
+EMP040,Employee_40,Male,IT,Tech Lead,N4,Master,29,75097,4.7,75000,1.0,Equitable,11.22653589021665
+EMP041,Employee_41,Male,Operations,Ops Manager,N5,Bachelor,107,105194,2.4,110000,0.96,Equitable,11.563561543438702
+EMP042,Employee_42,Male,Finance,Billing Clerk,N1,Master,86,21588,4.3,20000,1.08,Equitable,9.979892883738533
+EMP043,Employee_43,Male,IT,Sr Developer,N3,PhD,59,47871,1.9,50000,0.96,Equitable,10.776265172078537
+EMP044,Employee_44,Male,Finance,Sr Accountant,N3,Bachelor,3,52941,4.0,50000,1.06,Equitable,10.876933364911343
+EMP045,Employee_45,Female,Legal,Legal Assistant,N1,Bachelor,3,21056,4.6,20000,1.05,Equitable,9.954940834125043
+EMP046,Employee_46,Female,HR,HR Assistant,N1,Bachelor,19,20785,3.3,20000,1.04,Equitable,9.941986851686737
+EMP047,Employee_47,Male,HR,Recruiter,N2,Bachelor,43,32338,1.7,32000,1.01,Equitable,10.38399828829976
+EMP048,Employee_48,Female,HR,HR Generalist,N3,PhD,104,53126,2.4,50000,1.06,Equitable,10.88042172957897
+EMP049,Employee_49,Male,HR,Recruiter,N2,Bachelor,74,31125,3.5,32000,0.97,Equitable,10.345766633767008
+EMP050,Employee_50,Male,IT,Sr Developer,N3,Bachelor,109,49831,4.0,50000,1.0,Equitable,10.816392559306074
+EMP051,Employee_51,Female,Commercial,Lead Generator,N1,High School,90,17826,4.1,20000,0.89,Equitable,9.788413344690662
+EMP052,Employee_52,Female,Operations,Warehouse Op,N1,Bachelor,37,20910,4.1,20000,1.05,Equitable,9.94798279242268
+EMP053,Employee_53,Female,IT,Help Desk Support,N1,Bachelor,28,18346,1.5,20000,0.92,Equitable,9.8171668460696
+EMP054,Employee_54,Male,Commercial,Sales Supervisor,N4,PhD,69,75569,3.3,75000,1.01,Equitable,11.232801425162886
+EMP055,Employee_55,Female,Finance,Sr Accountant,N3,High School,112,52429,2.6,50000,1.05,Equitable,10.867215152334905
+EMP056,Employee_56,Male,Operations,Warehouse Op,N1,Master,75,20582,1.5,20000,1.03,Equitable,9.932172186396038
+EMP057,Employee_57,Female,Finance,Accountant,N2,Bachelor,79,35041,1.7,32000,1.1,Equitable,10.464274083455889
+EMP058,Employee_58,Female,HR,HR Assistant,N1,Bachelor,9,20938,3.7,20000,1.05,Equitable,9.9493209688793
+EMP059,Employee_59,Female,IT,VP Engineering,N7,Master,54,217998,2.4,235000,0.93,Equitable,12.292241167417215
+EMP060,Employee_60,Male,Commercial,Sales Manager,N5,Bachelor,112,77000,2.9,110000,0.7,Critical: Underpaid,11.251560700835821
+EMP061,Employee_61,Female,Legal,Associate,N3,Bachelor,70,54713,4.8,50000,1.09,Equitable,10.909856620136853
+EMP062,Employee_62,Female,Legal,Paralegal,N2,Master,43,22400,3.5,32000,0.7,Critical: Underpaid,10.01681623784313
+EMP063,Employee_63,Female,Commercial,Sales Rep,N2,High School,11,26660,2.0,32000,0.83,Equitable,10.1909195937327
+EMP064,Employee_64,Female,Legal,Legal Manager,N5,Bachelor,52,121076,4.0,110000,1.1,Equitable,11.704173726580704
+EMP065,Employee_65,Male,IT,Jr Developer,N2,Bachelor,45,34721,4.5,32000,1.09,Equitable,10.45509997020284
+EMP066,Employee_66,Male,Commercial,Sales Manager,N5,High School,48,119766,3.4,110000,1.09,Equitable,11.693295118038938
+EMP067,Employee_67,Male,Finance,Controller,N4,Master,40,84815,4.3,75000,1.13,Equitable,11.348227692929823
+EMP068,Employee_68,Female,Legal,Legal Assistant,N1,High School,12,20767,2.6,20000,1.04,Equitable,9.941120467342978
+EMP069,Employee_69,Male,Legal,Legal Director,N6,PhD,65,175318,2.7,165000,1.06,Equitable,12.074356746756065
+EMP070,Employee_70,Female,IT,Help Desk Support,N1,High School,37,18271,1.5,20000,0.91,Equitable,9.813070382411665
+EMP071,Employee_71,Male,Finance,Finance Director,N6,Master,8,188911,4.9,165000,1.14,Equitable,12.149031283662906
+EMP072,Employee_72,Male,HR,HR Manager,N5,Bachelor,80,118700,3.2,110000,1.08,Equitable,11.684354580597759
+EMP073,Employee_73,Female,Legal,Associate,N3,Master,99,56273,2.2,50000,1.13,Equitable,10.937970125383274
+EMP074,Employee_74,Male,IT,Help Desk Support,N1,Bachelor,78,22157,4.8,20000,1.11,Equitable,10.005908752635277
+EMP075,Employee_75,Female,Legal,General Counsel,N7,Master,79,229262,4.3,235000,0.98,Equitable,12.342620733350744
+EMP076,Employee_76,Male,Operations,Warehouse Op,N1,Master,1,19535,2.8,20000,0.98,Equitable,9.87996300748917
+EMP077,Employee_77,Male,IT,Jr Developer,N2,Master,73,37438,4.8,32000,1.17,Equitable,10.530441510361275
+EMP078,Employee_78,Female,Commercial,Sales Supervisor,N4,Bachelor,33,78867,3.7,75000,1.05,Equitable,11.27551816839207
+EMP079,Employee_79,Male,Operations,Logistics Coord,N2,Bachelor,108,36303,4.6,32000,1.13,Equitable,10.499655661466162
+EMP080,Employee_80,Male,IT,Jr Developer,N2,Bachelor,14,32266,4.6,32000,1.01,Equitable,10.38176932322609
+EMP081,Employee_81,Female,Commercial,Commercial Director,N6,PhD,57,149740,2.1,165000,0.91,Equitable,11.916655735784676
+EMP082,Employee_82,Female,HR,Recruiter,N2,Bachelor,95,32576,1.9,32000,1.02,Equitable,10.391331099910195
+EMP083,Employee_83,Male,Commercial,Sales Rep,N2,Bachelor,59,31978,2.5,32000,1.0,Equitable,10.372803445345365
+EMP084,Employee_84,Male,Operations,Planner,N3,Bachelor,68,35000,3.5,50000,0.7,Critical: Underpaid,10.46310334047155
+EMP085,Employee_85,Female,Commercial,Lead Generator,N1,High School,92,19988,4.7,20000,1.0,Equitable,9.902887372464095
+EMP086,Employee_86,Male,Commercial,Key Account Mgr,N3,Master,34,50132,4.7,50000,1.0,Equitable,10.822414805731412
+EMP087,Employee_87,Female,Legal,Paralegal,N2,Bachelor,43,32141,1.1,32000,1.0,Equitable,10.377887752684266
+EMP088,Employee_88,Female,Legal,Legal Director,N6,Master,20,177452,4.0,165000,1.08,Equitable,12.086455428791629
+EMP089,Employee_89,Male,Operations,Warehouse Op,N1,High School,90,21040,4.2,20000,1.05,Equitable,9.954180666851647
+EMP090,Employee_90,Male,Operations,Ops Manager,N5,Bachelor,107,110601,2.9,110000,1.01,Equitable,11.613684409620816
+EMP091,Employee_91,Male,Finance,Billing Clerk,N1,Bachelor,27,21951,3.6,20000,1.1,Equitable,9.99656797555214
+EMP092,Employee_92,Female,Commercial,Key Account Mgr,N3,Bachelor,111,48785,4.7,50000,0.98,Equitable,10.795178167542051
+EMP093,Employee_93,Female,HR,HR Generalist,N3,Bachelor,42,55248,4.9,50000,1.1,Equitable,10.919587419629774
+EMP094,Employee_94,Male,IT,Sr Developer,N3,PhD,3,51427,4.7,50000,1.03,Equitable,10.847918605354593
+EMP095,Employee_95,Female,Legal,Associate,N3,PhD,106,52055,2.9,50000,1.04,Equitable,10.860056130908854
+EMP096,Employee_96,Female,Finance,Accountant,N2,Master,90,32778,4.7,32000,1.02,Equitable,10.397512837623772
+EMP097,Employee_97,Male,Finance,Sr Accountant,N3,Bachelor,42,52154,4.0,50000,1.04,Equitable,10.861956159309152
+EMP098,Employee_98,Male,IT,Tech Lead,N4,Bachelor,94,77596,2.4,75000,1.03,Equitable,11.259271158450996
+EMP099,Employee_99,Female,Finance,Billing Clerk,N1,High School,103,19239,1.6,20000,0.96,Equitable,9.864694747816973
+EMP100,Employee_100,Female,Commercial,Sales Supervisor,N4,Master,22,68765,1.5,75000,0.92,Equitable,11.138450173548808
+EMP101,Employee_101,Female,HR,HRBP,N4,PhD,42,74841,2.1,75000,1.0,Equitable,11.223121142137346
+EMP102,Employee_102,Male,Operations,Planner,N3,Bachelor,89,53898,4.9,50000,1.08,Equitable,10.894848650457261
+EMP103,Employee_103,Male,Commercial,Lead Generator,N1,Bachelor,17,19483,2.8,20000,0.97,Equitable,9.877297569445886
+EMP104,Employee_104,Male,Operations,Ops Manager,N5,Bachelor,68,77000,2.0,110000,0.7,Critical: Underpaid,11.251560700835821
+EMP105,Employee_105,Male,IT,Help Desk Support,N1,PhD,29,20921,3.0,20000,1.05,Equitable,9.948508718183648
+EMP106,Employee_106,Female,Finance,Sr Accountant,N3,PhD,46,47777,4.2,50000,0.96,Equitable,10.774299631131253
+EMP107,Employee_107,Male,HR,Recruiter,N2,Master,76,31007,3.1,32000,0.97,Equitable,10.341968264428457
+EMP108,Employee_108,Female,HR,Recruiter,N2,Master,62,33646,1.5,32000,1.05,Equitable,10.423649457279106
+EMP109,Employee_109,Female,Operations,Planner,N3,Bachelor,99,55851,2.2,50000,1.12,Equitable,10.930442709440007
+EMP110,Employee_110,Male,Finance,Controller,N4,Master,90,82219,4.3,75000,1.1,Equitable,11.317141697887028
+EMP111,Employee_111,Female,Finance,Billing Clerk,N1,Master,59,21658,5.0,20000,1.08,Equitable,9.983130180188324
+EMP112,Employee_112,Female,Finance,Controller,N4,High School,29,73403,4.6,75000,0.98,Equitable,11.203720085701978
+EMP113,Employee_113,Female,Legal,Associate,N3,PhD,100,50710,1.7,50000,1.01,Equitable,10.833878408789065
+EMP114,Employee_114,Male,IT,Jr Developer,N2,Bachelor,31,30953,2.5,32000,0.97,Equitable,10.3402252039484
+EMP115,Employee_115,Male,IT,Tech Lead,N4,Bachelor,95,87739,4.9,75000,1.17,Equitable,11.38212177734502
+EMP116,Employee_116,Female,HR,HR Assistant,N1,Master,47,21913,1.4,20000,1.1,Equitable,9.994835346995403
+EMP117,Employee_117,Male,HR,HR Generalist,N3,Master,94,51706,4.6,50000,1.03,Equitable,10.853329107921365
+EMP118,Employee_118,Female,Legal,Paralegal,N2,Master,20,32508,4.7,32000,1.02,Equitable,10.389241491873095
+EMP119,Employee_119,Male,Commercial,Lead Generator,N1,Bachelor,57,22050,4.4,20000,1.1,Equitable,10.001067880874992
+EMP120,Employee_120,Female,Commercial,Commercial Director,N6,Master,103,142735,1.6,165000,0.87,Equitable,11.868745043187985
+EMP121,Employee_121,Male,Finance,Billing Clerk,N1,Bachelor,6,21048,4.8,20000,1.05,Equitable,9.95456082272013
+EMP122,Employee_122,Male,Operations,Logistics Coord,N2,PhD,58,36084,3.4,32000,1.13,Equitable,10.49360483277653
+EMP123,Employee_123,Male,Commercial,Sales Rep,N2,Bachelor,94,32765,2.4,32000,1.02,Equitable,10.397116151473597
+EMP124,Employee_124,Female,Finance,Accountant,N2,Bachelor,74,33658,3.2,32000,1.05,Equitable,10.424006048273018
+EMP125,Employee_125,Female,Finance,Controller,N4,Bachelor,47,78661,3.0,75000,1.05,Equitable,11.272902758846767
+EMP126,Employee_126,Female,IT,Sr Developer,N3,PhD,81,48577,1.9,50000,0.97,Equitable,10.790905446841167
+EMP127,Employee_127,Male,IT,Sr Developer,N3,Bachelor,25,35000,2.1,50000,0.7,Critical: Underpaid,10.46310334047155
+EMP128,Employee_128,Male,Operations,VP Operations,N7,Master,92,254902,3.9,235000,1.08,Equitable,12.448634436547627
+EMP129,Employee_129,Female,Commercial,Key Account Mgr,N3,High School,90,52018,4.9,50000,1.04,Equitable,10.859345091512298
+EMP130,Employee_130,Male,Commercial,Sales Rep,N2,Bachelor,1,27521,1.6,32000,0.86,Equitable,10.222704628596402
+EMP131,Employee_131,Female,Operations,Plant Supervisor,N4,Bachelor,85,79174,5.0,75000,1.06,Equitable,11.279403241077631
+EMP132,Employee_132,Female,HR,Recruiter,N2,High School,47,32706,4.0,32000,1.02,Equitable,10.395313826292336
+EMP133,Employee_133,Female,Legal,Legal Assistant,N1,Bachelor,77,21183,2.6,20000,1.06,Equitable,9.960954252184457
+EMP134,Employee_134,Female,HR,HR Generalist,N3,Bachelor,13,51205,4.8,50000,1.02,Equitable,10.843592462509537
+EMP135,Employee_135,Male,HR,HR Assistant,N1,Bachelor,59,20805,2.3,20000,1.04,Equitable,9.942948621417042
+EMP136,Employee_136,Female,Legal,Sr Counsel,N4,Bachelor,104,80157,4.5,75000,1.07,Equitable,11.291742490468653
+EMP137,Employee_137,Male,IT,IT Manager,N5,PhD,73,112223,3.5,110000,1.02,Equitable,11.628243242150274
+EMP138,Employee_138,Male,Operations,Planner,N3,Bachelor,63,53490,1.2,50000,1.07,Equitable,10.887249999525295
+EMP139,Employee_139,Female,Operations,Planner,N3,Master,16,35000,1.2,50000,0.7,Critical: Underpaid,10.46310334047155
+EMP140,Employee_140,Male,IT,Jr Developer,N2,Master,55,33379,3.6,32000,1.04,Equitable,10.415682238708357
+EMP141,Employee_141,Male,Commercial,Sales Rep,N2,Bachelor,69,33080,1.6,32000,1.03,Equitable,10.406684149137627
+EMP142,Employee_142,Male,Operations,Planner,N3,High School,80,54388,3.4,50000,1.09,Equitable,10.903898820275577
+EMP143,Employee_143,Male,Commercial,Lead Generator,N1,Bachelor,91,22007,4.0,20000,1.1,Equitable,9.999115863549536
+EMP144,Employee_144,Female,Operations,COO,N8,PhD,54,382366,4.3,350000,1.09,Equitable,12.854133544072575
+EMP145,Employee_145,Male,IT,Help Desk Support,N1,High School,55,19738,3.0,20000,0.99,Equitable,9.890300990731953
+EMP146,Employee_146,Male,Commercial,Key Account Mgr,N3,Master,102,55067,4.9,50000,1.1,Equitable,10.916305904651349
+EMP147,Employee_147,Female,Legal,Associate,N3,Master,96,52993,1.6,50000,1.06,Equitable,10.877915108339828
+EMP148,Employee_148,Male,Finance,Finance Manager,N5,Bachelor,55,122048,4.1,110000,1.11,Equitable,11.71216968896009
+EMP149,Employee_149,Male,Commercial,Sales Rep,N2,Bachelor,119,22400,2.1,32000,0.7,Critical: Underpaid,10.01681623784313
+EMP150,Employee_150,Male,Finance,Controller,N4,High School,97,77578,1.8,75000,1.03,Equitable,11.259039160821487
+EMP151,Employee_151,Male,IT,Jr Developer,N2,Bachelor,111,33262,1.2,32000,1.04,Equitable,10.412170883230086
+EMP152,Employee_152,Male,Operations,Ops Manager,N5,Master,66,111184,4.4,110000,1.01,Equitable,11.618941765554109
+EMP153,Employee_153,Female,Legal,Paralegal,N2,Bachelor,21,34882,4.3,32000,1.09,Equitable,10.459726215828614
+EMP154,Employee_154,Male,IT,IT Manager,N5,Bachelor,119,115538,2.1,110000,1.05,Equitable,11.657354759162933
+EMP155,Employee_155,Male,Legal,Legal Assistant,N1,Master,69,20356,1.8,20000,1.02,Equitable,9.921130987708723
+EMP156,Employee_156,Male,Commercial,Lead Generator,N1,Master,35,20195,2.5,20000,1.01,Equitable,9.913190327997514
+EMP157,Employee_157,Female,Legal,Sr Counsel,N4,Bachelor,106,78240,4.8,75000,1.04,Equitable,11.267536304708699
+EMP158,Employee_158,Male,IT,Help Desk Support,N1,Bachelor,80,20870,2.0,20000,1.04,Equitable,9.946068000071246
+EMP159,Employee_159,Female,HR,HR Assistant,N1,Bachelor,46,19831,1.0,20000,0.99,Equitable,9.89500164888583
+EMP160,Employee_160,Male,HR,Recruiter,N2,Master,21,34107,4.3,32000,1.07,Equitable,10.437257920797217
+EMP161,Employee_161,Female,Finance,Accountant,N2,Bachelor,15,30831,2.1,32000,0.96,Equitable,10.336275956293182
+EMP162,Employee_162,Male,IT,Jr Developer,N2,Bachelor,95,31682,3.2,32000,0.99,Equitable,10.363503975248795
+EMP163,Employee_163,Male,Commercial,Sales Manager,N5,Bachelor,71,114810,2.5,110000,1.04,Equitable,11.651033867087857
+EMP164,Employee_164,Female,HR,HR Assistant,N1,Master,7,19838,3.1,20000,0.99,Equitable,9.895354569305939
+EMP165,Employee_165,Female,Commercial,Sales Supervisor,N4,PhD,106,69725,2.0,75000,0.93,Equitable,11.152314212495689
+EMP166,Employee_166,Female,Finance,Billing Clerk,N1,Bachelor,109,24104,5.0,20000,1.21,Alert: Overpaid,10.090133080810137
+EMP167,Employee_167,Female,Legal,Sr Counsel,N4,Bachelor,107,81005,4.0,75000,1.08,Equitable,11.30226616014452
+EMP168,Employee_168,Male,Commercial,Sales Supervisor,N4,High School,66,78536,3.9,75000,1.05,Equitable,11.271312397372357
+EMP169,Employee_169,Male,Legal,Associate,N3,Master,52,54543,2.8,50000,1.09,Equitable,10.906744660387382
+EMP170,Employee_170,Female,Finance,Billing Clerk,N1,Master,35,21378,3.7,20000,1.07,Equitable,9.97011763483389
+EMP171,Employee_171,Female,HR,HR Generalist,N3,Bachelor,48,52118,2.1,50000,1.04,Equitable,10.861265657517102
+EMP172,Employee_172,Female,IT,Help Desk Support,N1,Bachelor,68,19414,3.3,20000,0.97,Equitable,9.873749734272172
+EMP173,Employee_173,Female,IT,Jr Developer,N2,Bachelor,76,30508,4.0,32000,0.95,Equitable,10.32574422328413
+EMP174,Employee_174,Male,Legal,Sr Counsel,N4,Bachelor,43,78693,2.0,75000,1.05,Equitable,11.273309485087486
+EMP175,Employee_175,Female,Finance,Controller,N4,Master,13,79888,4.9,75000,1.07,Equitable,11.28838093274039
+EMP176,Employee_176,Female,Commercial,Sales Manager,N5,Master,119,96336,2.9,110000,0.88,Equitable,11.47559735970423
+EMP177,Employee_177,Male,IT,Sr Developer,N3,Bachelor,23,49946,2.6,50000,1.0,Equitable,10.81869770079004
+EMP178,Employee_178,Female,Legal,Sr Counsel,N4,Bachelor,22,74226,1.8,75000,0.99,Equitable,11.214869772090887
+EMP179,Employee_179,Female,Commercial,Sales Manager,N5,Bachelor,39,111060,2.7,110000,1.01,Equitable,11.617825874795598
+EMP180,Employee_180,Female,HR,HR Generalist,N3,Bachelor,58,48981,3.4,50000,0.98,Equitable,10.799187746794274
+EMP181,Employee_181,Male,Operations,Planner,N3,High School,25,53956,4.3,50000,1.08,Equitable,10.89592417858957
+EMP182,Employee_182,Female,Finance,Accountant,N2,Bachelor,55,22400,4.3,32000,0.7,Critical: Underpaid,10.01681623784313
+EMP183,Employee_183,Male,Legal,Legal Manager,N5,Bachelor,40,108338,1.7,110000,0.98,Equitable,11.593011248639058
+EMP184,Employee_184,Female,Commercial,Sales Supervisor,N4,Bachelor,67,70136,2.5,75000,0.94,Equitable,11.158191493268422
+EMP185,Employee_185,Female,Commercial,VP Sales,N7,Master,112,232901,4.0,235000,0.99,Equitable,12.358368749551493
+EMP186,Employee_186,Male,Finance,CFO,N8,Master,59,362915,2.0,350000,1.04,Equitable,12.801923926047692
+EMP187,Employee_187,Female,HR,HR Assistant,N1,Bachelor,52,19144,2.2,20000,0.96,Equitable,9.85974462958821
+EMP188,Employee_188,Male,IT,Jr Developer,N2,Bachelor,2,32952,3.4,32000,1.03,Equitable,10.402807236115917
+EMP189,Employee_189,Female,Legal,Legal Manager,N5,Bachelor,77,121877,3.1,110000,1.11,Equitable,11.710767618421912
+EMP190,Employee_190,Male,IT,Tech Lead,N4,Bachelor,18,70211,1.1,75000,0.94,Equitable,11.159260272895194
+EMP191,Employee_191,Male,Operations,Planner,N3,Bachelor,74,52412,2.4,50000,1.05,Equitable,10.866890851724476
+EMP192,Employee_192,Female,Commercial,Key Account Mgr,N3,Bachelor,3,48717,3.6,50000,0.97,Equitable,10.793783324133198
+EMP193,Employee_193,Male,Commercial,Sales Supervisor,N4,PhD,69,81335,4.6,75000,1.08,Equitable,11.306331707200554
+EMP194,Employee_194,Male,IT,Sr Developer,N3,Master,48,50961,3.6,50000,1.02,Equitable,10.838815913287421
+EMP195,Employee_195,Male,Commercial,Sales Rep,N2,Bachelor,67,31682,1.7,32000,0.99,Equitable,10.363503975248795
+EMP196,Employee_196,Female,HR,HR Director,N6,Master,75,162500,1.7,165000,0.98,Equitable,11.998433280751929
+EMP197,Employee_197,Female,Operations,Ops Director,N6,Master,70,172186,4.5,165000,1.04,Equitable,12.05633056685767
+EMP198,Employee_198,Female,Legal,Paralegal,N2,Bachelor,89,22400,3.7,32000,0.7,Critical: Underpaid,10.01681623784313
+EMP199,Employee_199,Male,Commercial,Lead Generator,N1,High School,118,20080,1.5,20000,1.0,Equitable,9.907479573805665
+EMP200,Employee_200,Female,IT,Help Desk Support,N1,Bachelor,58,18145,1.1,20000,0.91,Equitable,9.806150319647172
+EMP201,Employee_201,Male,Commercial,Sales Manager,N5,Bachelor,26,116968,2.3,110000,1.06,Equitable,11.669655672097274
+EMP202,Employee_202,Female,Commercial,Sales Manager,N5,Bachelor,23,100760,2.9,110000,0.92,Equitable,11.520496730466547
+EMP203,Employee_203,Male,IT,Sr Developer,N3,Bachelor,11,49913,3.2,50000,1.0,Equitable,10.81803676885198
+EMP204,Employee_204,Female,Legal,Associate,N3,Bachelor,117,55614,4.4,50000,1.11,Equitable,10.926190247103888
+EMP205,Employee_205,Male,Commercial,Sales Manager,N5,Bachelor,109,121286,3.9,110000,1.1,Equitable,11.705906671948
+EMP206,Employee_206,Male,Operations,Plant Supervisor,N4,Bachelor,12,73719,3.4,75000,0.98,Equitable,11.208015846851822
+EMP207,Employee_207,Male,Operations,Warehouse Op,N1,Master,23,20394,3.5,20000,1.02,Equitable,9.92299601892417
+EMP208,Employee_208,Male,IT,IT Manager,N5,High School,71,109475,2.2,110000,1.0,Equitable,11.603451491669599
+EMP209,Employee_209,Male,Commercial,Sales Rep,N2,Bachelor,43,32360,2.3,32000,1.01,Equitable,10.384678371172429
+EMP210,Employee_210,Male,Finance,Controller,N4,High School,82,75415,4.1,75000,1.01,Equitable,11.230761473202353
+EMP211,Employee_211,Female,Legal,Legal Manager,N5,High School,29,108998,3.4,110000,0.99,Equitable,11.59908481241909
+EMP212,Employee_212,Male,Operations,Logistics Coord,N2,Bachelor,43,31249,2.2,32000,0.98,Equitable,10.349742654652538
+EMP213,Employee_213,Female,Finance,Accountant,N2,Master,45,29828,4.2,32000,0.93,Equitable,10.303202828663686
+EMP214,Employee_214,Female,Operations,Plant Supervisor,N4,Bachelor,106,75008,2.2,75000,1.0,Equitable,11.22535005349663
+EMP215,Employee_215,Male,Legal,Legal Assistant,N1,Bachelor,75,18551,1.1,20000,0.93,Equitable,9.828278974938373
+EMP216,Employee_216,Female,Commercial,Key Account Mgr,N3,Bachelor,21,35000,4.5,50000,0.7,Critical: Underpaid,10.46310334047155
+EMP217,Employee_217,Male,HR,HR Assistant,N1,Bachelor,58,19966,2.5,20000,1.0,Equitable,9.90178610589637
+EMP218,Employee_218,Female,Legal,Paralegal,N2,Bachelor,27,31342,3.0,32000,0.98,Equitable,10.352714330083161
+EMP219,Employee_219,Female,HR,HR Manager,N5,Master,31,123903,4.8,110000,1.13,Equitable,11.727254280399162
+EMP220,Employee_220,Male,Legal,Associate,N3,Master,64,52554,4.2,50000,1.05,Equitable,10.869596491391144
+EMP221,Employee_221,Female,Finance,Controller,N4,Bachelor,57,77592,4.1,75000,1.03,Equitable,11.259219608073378
+EMP222,Employee_222,Female,Commercial,Lead Generator,N1,Bachelor,68,18904,2.2,20000,0.95,Equitable,9.847128818866743
+EMP223,Employee_223,Female,Operations,Warehouse Op,N1,Bachelor,5,20421,2.8,20000,1.02,Equitable,9.92431906211606
+EMP224,Employee_224,Female,Finance,Billing Clerk,N1,Bachelor,81,21720,2.3,20000,1.09,Equitable,9.985988774047872
+EMP225,Employee_225,Female,Finance,Billing Clerk,N1,Bachelor,33,19458,1.6,20000,0.97,Equitable,9.876013575535373
+EMP226,Employee_226,Male,IT,Help Desk Support,N1,Bachelor,105,20094,2.4,20000,1.0,Equitable,9.90817654202226
+EMP227,Employee_227,Male,Legal,Paralegal,N2,Bachelor,112,34384,4.0,32000,1.07,Equitable,10.445346618882292
+EMP228,Employee_228,Female,HR,Recruiter,N2,High School,94,36395,4.1,32000,1.14,Equitable,10.502186681552358
+EMP229,Employee_229,Female,Commercial,Lead Generator,N1,Bachelor,80,19174,4.7,20000,0.96,Equitable,9.861310473636943
+EMP230,Employee_230,Female,Legal,Paralegal,N2,PhD,37,29981,1.1,32000,0.94,Equitable,10.308319126670684
+EMP231,Employee_231,Female,IT,Sr Developer,N3,Master,81,48283,1.3,50000,0.97,Equitable,10.78483481081208
+EMP232,Employee_232,Male,Legal,General Counsel,N7,Master,89,255552,4.4,235000,1.09,Equitable,12.451181190422894
+EMP233,Employee_233,Male,Finance,Finance Director,N6,Master,54,167954,1.4,165000,1.02,Equitable,12.031445411368916
+EMP234,Employee_234,Female,HR,Recruiter,N2,High School,40,34305,2.4,32000,1.07,Equitable,10.443046395124991
+EMP235,Employee_235,Female,Operations,Logistics Coord,N2,Bachelor,82,41600,4.6,32000,1.3,Alert: Overpaid,10.635855446249355
+EMP236,Employee_236,Male,IT,IT Director,N6,PhD,43,159753,1.8,165000,0.97,Equitable,11.981384151406175
+EMP237,Employee_237,Female,HR,Recruiter,N2,Master,94,31733,1.7,32000,0.99,Equitable,10.365112427854497
+EMP238,Employee_238,Male,Commercial,Sales Rep,N2,Bachelor,71,35846,4.0,32000,1.12,Equitable,10.486987263791542
+EMP239,Employee_239,Female,IT,Sr Developer,N3,Master,52,65000,2.3,50000,1.3,Alert: Overpaid,11.082142548877775
+EMP240,Employee_240,Female,Finance,Controller,N4,Bachelor,45,77247,4.9,75000,1.03,Equitable,11.25476335905444
+EMP241,Employee_241,Male,Legal,Associate,N3,High School,97,52712,5.0,50000,1.05,Equitable,10.872598412593655
+EMP242,Employee_242,Male,IT,Help Desk Support,N1,High School,39,20747,3.7,20000,1.04,Equitable,9.940156936893139
+EMP243,Employee_243,Male,IT,Jr Developer,N2,Bachelor,52,32955,2.1,32000,1.03,Equitable,10.40289827348682
+EMP244,Employee_244,Male,Finance,VP Finance,N7,Master,45,224515,2.9,235000,0.96,Equitable,12.32169779907718
+EMP245,Employee_245,Male,Finance,Finance Manager,N5,Bachelor,103,113508,3.4,110000,1.03,Equitable,11.63962859800117
+EMP246,Employee_246,Female,Legal,Legal Assistant,N1,High School,97,21256,3.8,20000,1.06,Equitable,9.96439448743965
+EMP247,Employee_247,Male,IT,CTO,N8,Master,94,455000,4.8,350000,1.3,Alert: Overpaid,13.028052697933088
+EMP248,Employee_248,Female,IT,IT Manager,N5,Bachelor,9,95812,3.9,110000,0.87,Equitable,11.470143217074787
+EMP249,Employee_249,Male,Legal,Legal Assistant,N1,Master,4,21052,4.4,20000,1.05,Equitable,9.954750846473669
+EMP250,Employee_250,Female,Legal,Associate,N3,Master,20,49191,1.0,50000,0.98,Equitable,10.803465958917979
+EMP251,Employee_251,Female,Operations,Logistics Coord,N2,Bachelor,38,34116,3.9,32000,1.07,Equitable,10.437521761439
+EMP252,Employee_252,Female,Commercial,Lead Generator,N1,Bachelor,103,20199,3.9,20000,1.01,Equitable,9.91338837721339
+EMP253,Employee_253,Male,IT,IT Director,N6,Master,110,186342,4.5,165000,1.13,Equitable,12.1353389740154
+EMP254,Employee_254,Female,Finance,Accountant,N2,Bachelor,96,22400,4.9,32000,0.7,Critical: Underpaid,10.01681623784313
+EMP255,Employee_255,Female,Finance,Accountant,N2,Bachelor,24,34598,4.1,32000,1.08,Equitable,10.451551155906923
+EMP256,Employee_256,Male,Finance,Accountant,N2,High School,85,36017,4.2,32000,1.13,Equitable,10.491746328198644
+EMP257,Employee_257,Male,IT,Help Desk Support,N1,High School,54,21087,3.4,20000,1.05,Equitable,9.956412015844014
+EMP258,Employee_258,Male,Operations,Ops Director,N6,Master,1,153818,4.5,165000,0.93,Equitable,11.94352536431614
+EMP259,Employee_259,Male,Commercial,Lead Generator,N1,Bachelor,28,20032,3.0,20000,1.0,Equitable,9.905086273899824
+EMP260,Employee_260,Male,HR,HR Director,N6,Master,109,179823,4.5,165000,1.09,Equitable,12.099728312749615
+EMP261,Employee_261,Male,Finance,CFO,N8,Master,78,380181,4.5,350000,1.09,Equitable,12.848402734089685
+EMP262,Employee_262,Female,Legal,Paralegal,N2,PhD,60,35123,3.7,32000,1.1,Equitable,10.466611465513152
+EMP263,Employee_263,Female,IT,Sr Developer,N3,High School,32,45163,2.5,50000,0.9,Equitable,10.718033446526634
+EMP264,Employee_264,Female,HR,Recruiter,N2,Bachelor,57,31940,1.2,32000,1.0,Equitable,10.371614421769003
+EMP265,Employee_265,Female,HR,HR Generalist,N3,Master,24,49439,3.7,50000,0.99,Equitable,10.808494865389797
+EMP266,Employee_266,Male,IT,Jr Developer,N2,Master,117,34279,3.3,32000,1.07,Equitable,10.44228820075763
+EMP267,Employee_267,Male,Finance,Accountant,N2,High School,40,32636,1.6,32000,1.02,Equitable,10.39317125254869
+EMP268,Employee_268,Female,Legal,Legal Assistant,N1,Bachelor,34,19927,1.3,20000,1.0,Equitable,9.899830875032585
+EMP269,Employee_269,Female,Legal,Legal Assistant,N1,Bachelor,70,20113,1.2,20000,1.01,Equitable,9.909121651153221
+EMP270,Employee_270,Male,Operations,Planner,N3,Master,100,50667,4.3,50000,1.01,Equitable,10.83303009008603
+EMP271,Employee_271,Female,Legal,Associate,N3,Master,53,49737,1.1,50000,0.99,Equitable,10.814504401907575
+EMP272,Employee_272,Male,Commercial,Key Account Mgr,N3,Bachelor,85,53131,3.4,50000,1.06,Equitable,10.880515841025813
+EMP273,Employee_273,Male,Legal,Legal Assistant,N1,Bachelor,56,22120,1.7,20000,1.11,Equitable,10.004237455636272
+EMP274,Employee_274,Male,Operations,Warehouse Op,N1,Bachelor,23,20064,4.1,20000,1.0,Equitable,9.906682443432647
+EMP275,Employee_275,Male,Legal,Legal Manager,N5,Bachelor,32,110491,2.2,110000,1.0,Equitable,11.612689348659078
+EMP276,Employee_276,Male,Legal,Paralegal,N2,High School,28,31047,1.4,32000,0.97,Equitable,10.343257464336283
+EMP277,Employee_277,Female,Commercial,Lead Generator,N1,Bachelor,77,18835,1.7,20000,0.94,Equitable,9.843472120126142
+EMP278,Employee_278,Male,HR,HR Assistant,N1,Master,109,14000,3.2,20000,0.7,Critical: Underpaid,9.546812608597396
+EMP279,Employee_279,Male,Legal,Legal Assistant,N1,Master,15,14000,2.4,20000,0.7,Critical: Underpaid,9.546812608597396
+EMP280,Employee_280,Male,Legal,Legal Director,N6,Master,58,173937,2.5,165000,1.05,Equitable,12.066448443668355
+EMP281,Employee_281,Male,IT,Help Desk Support,N1,Bachelor,4,20490,3.5,20000,1.02,Equitable,9.927692241232945
+EMP282,Employee_282,Male,Operations,Planner,N3,Master,90,46434,1.3,50000,0.93,Equitable,10.745787228498514
+EMP283,Employee_283,Female,HR,CHRO,N8,PhD,107,357028,3.8,350000,1.02,Equitable,12.785569489058746
+EMP284,Employee_284,Male,IT,Jr Developer,N2,Bachelor,12,32990,4.3,32000,1.03,Equitable,10.403959764222627
+EMP285,Employee_285,Male,Finance,CFO,N8,PhD,83,382062,2.3,350000,1.09,Equitable,12.853338178083819
+EMP286,Employee_286,Female,Legal,Legal Assistant,N1,Bachelor,8,19000,1.7,20000,0.95,Equitable,9.852194258148577
+EMP287,Employee_287,Male,IT,Jr Developer,N2,Bachelor,25,32216,3.9,32000,1.01,Equitable,10.38021850253129
+EMP288,Employee_288,Male,IT,Help Desk Support,N1,Master,104,21343,3.5,20000,1.07,Equitable,9.968479096043568
+EMP289,Employee_289,Female,Commercial,Key Account Mgr,N3,Bachelor,102,45491,1.1,50000,0.91,Equitable,10.725269783175804
+EMP290,Employee_290,Male,Legal,Legal Director,N6,Master,34,214500,3.2,165000,1.3,Alert: Overpaid,12.27606501735021
+EMP291,Employee_291,Male,Operations,Warehouse Op,N1,Bachelor,53,20540,1.0,20000,1.03,Equitable,9.930129483482549
+EMP292,Employee_292,Female,HR,HRBP,N4,Master,115,80800,4.4,75000,1.08,Equitable,11.299732244509187
+EMP293,Employee_293,Male,Finance,Billing Clerk,N1,Bachelor,112,22723,2.5,20000,1.14,Equitable,10.031132906371798
+EMP294,Employee_294,Male,Commercial,CRO,N8,PhD,108,359257,3.9,350000,1.03,Equitable,12.791793288789714
+EMP295,Employee_295,Male,IT,Jr Developer,N2,Master,34,29489,1.1,32000,0.92,Equitable,10.29177259143444
+EMP296,Employee_296,Female,Legal,Sr Counsel,N4,PhD,75,80037,3.5,75000,1.07,Equitable,11.29024430673586
+EMP297,Employee_297,Female,Commercial,Key Account Mgr,N3,Master,88,35000,1.3,50000,0.7,Critical: Underpaid,10.46310334047155
+EMP298,Employee_298,Female,Operations,Warehouse Op,N1,Bachelor,86,22884,2.4,20000,1.14,Equitable,10.03819325538842
+EMP299,Employee_299,Female,Legal,Legal Director,N6,Master,12,214500,3.0,165000,1.3,Alert: Overpaid,12.27606501735021
+EMP300,Employee_300,Male,Legal,Legal Assistant,N1,Bachelor,11,20263,2.8,20000,1.01,Equitable,9.91655184186533
